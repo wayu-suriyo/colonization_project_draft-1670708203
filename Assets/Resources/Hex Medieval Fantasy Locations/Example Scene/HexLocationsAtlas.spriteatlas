@@ -2,6 +2,7 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!687078895 &4343727234628468602
 SpriteAtlas:
+  serializedVersion: 2
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -527,3 +528,4 @@ SpriteAtlas:
   m_RenderDataMap: {}
   m_Tag: HexLocationsAtlas
   m_IsVariant: 0
+  m_Guid: a4ae1e0f39d460d48a8674e05546dc22

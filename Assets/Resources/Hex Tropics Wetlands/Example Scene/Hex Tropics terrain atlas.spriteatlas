@@ -2,6 +2,7 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!687078895 &4343727234628468602
 SpriteAtlas:
+  serializedVersion: 2
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -279,3 +280,4 @@ SpriteAtlas:
   m_RenderDataMap: {}
   m_Tag: Hex Tropics terrain atlas
   m_IsVariant: 0
+  m_Guid: 67a929f33b8a66344be94d9c1262a1b6
